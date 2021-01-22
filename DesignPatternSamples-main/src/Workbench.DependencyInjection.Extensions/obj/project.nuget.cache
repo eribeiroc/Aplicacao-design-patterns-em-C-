@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kVl+YYyM8JRDw0aZ4cjZy5EUAjEWW9N7sa2cM8CNSDvPynQOsrLnz05iJQszeb6mhbMwvCyhjGh/cEDSlf5jaw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Osiel\\Desktop\\manu\\Cursos\\DIO\\Projeto - Aplicando design patterns na aplicação C#\\DesignPatternSamples-main\\src\\Workbench.DependencyInjection.Extensions\\Workbench.DependencyInjection.Extensions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Osiel\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.9\\microsoft.extensions.dependencyinjection.abstractions.3.1.9.nupkg.sha512"
+  ],
+  "logs": []
+}
